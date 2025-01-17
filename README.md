@@ -27,8 +27,8 @@
 
 🎨 HTML and CSS for a sleek and responsive design
 
-⚙️ JavaScript for dynamic functionality
 
+⚙️ JavaScript for dynamic functionality
 
 
 🚀 Why It's Cool:
@@ -36,3 +36,8 @@
 🧩 A perfect beginner-friendly project to understand how JavaScript interacts with HTML and CSS!
 
 🎉 Simple, creative, and engaging experience!
+
+
+## Disclaimer
+This project is developed by **Md Asif**. Any reproduction, distribution, or use of this code must give appropriate credit to the original author. 🚀
+
