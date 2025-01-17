@@ -6,19 +6,30 @@
 
 🌟 Hello Name Application – A simple yet interactive web app that greets you by name!
 
+📋 Features:
+
+🖱️ Click the button to trigger an interactive notification box
+
+<p align="center">
+<img src="Project Preview/Preview2.JPG" >
+</p>
+
+📝 Enter your name, and watch it dynamically display on the screen!
+
+<p align="center">
+<img src="Project Preview/Preview3.JPG" >
+</p>
+
+
+🌈 User-friendly design with smooth functionality
+
 ✨ Technologies Used:
 
 🎨 HTML and CSS for a sleek and responsive design
 
 ⚙️ JavaScript for dynamic functionality
 
-📋 Features:
 
-🖱️ Click the button to trigger an interactive notification box
-
-📝 Enter your name, and watch it dynamically display on the screen!
-
-🌈 User-friendly design with smooth functionality
 
 🚀 Why It's Cool:
 
